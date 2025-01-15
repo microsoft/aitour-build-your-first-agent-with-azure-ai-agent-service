@@ -58,6 +58,4 @@ That's it! Thank you for your contribution!
 
 For help and questions about using this project, please create an issue as detailed above and tag [@gloveboxes](https://github.com/gloveboxes) if you have not received a response after 3 days.  
 
-## Microsoft Support Policy  
-
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+feature request as a new Issue.
