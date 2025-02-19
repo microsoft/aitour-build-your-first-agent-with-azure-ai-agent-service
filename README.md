@@ -57,8 +57,9 @@ If you want to deliver this talk yourself, you can find the [presenter and proct
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Azure AI Agent Service  | [Learn more](https://learn.microsoft.com/azure/ai-services/agents/) | Learn more about Prompty, a new asset class and format for LLM prompts that aims to provide observability, understandability, and portability for developers |
-| Introducing Azure AI Agent Service | [Learn more](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357) | General announcement |
+| Azure AI Agent Service  | [Documentation](https://learn.microsoft.com/azure/ai-services/agents/) | Azure AI Agent Service documentation |
+| Fundamentals of AI agents on Azure | [Learn module](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/) | Tutorial |
+| Introducing Azure AI Agent Service | [Blog post](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357) | Azure AI Agent Service announcement |
 | Python library | [Learn more](https://pypi.org/project/azure-ai-projects) | Learn about the Python AI Agents Library |
 
 ## Content Owners
