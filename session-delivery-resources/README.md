@@ -20,6 +20,8 @@ Imagine you are a sales manager at Contoso, a multinational retail company that 
 |-------------------|----------------------------------|-------------------|
 |  Workshop Manual       | [Build Your First Agent with Azure AI Agent Service](https://aka.ms/aitour/WRK552) | Lab Guide |
 |  Workshop Repo         | [Build your first agent with Azure AI Agent Service Lab](https://aka.ms/aitour/WRK552/repo) | Repo |
+|  Presenter Intro       | [Build Your First Agent with Azure AI Agent Service](https://aka.ms/AAu1jiu) | PPT |
+
 
 ## Get Started
 
