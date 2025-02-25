@@ -51,6 +51,10 @@ This workshop demonstrates how to leverage the Azure AI Agent Service to create 
 
 This workshop equips you with the knowledge and tools to build and extend conversational agents tailored to your business needs, leveraging the full capabilities of the Azure AI Agent Service.
 
+## Workshop Guide
+
+Start the workshop here: [aka.ms/aitour/WRK552](https://aka.ms/aitour/WRK552)
+
 ## Additional Resources and Continued Learning
 
 If you want to deliver this talk yourself, you can find the [presenter and proctor resources here](./session-delivery-resources/README.md).
