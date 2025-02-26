@@ -62,7 +62,7 @@ If you want to deliver this talk yourself, you can find the [presenter and proct
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Azure AI Agent Service  | [Documentation](https://learn.microsoft.com/azure/ai-services/agents/) | Azure AI Agent Service documentation |
-| Fundamentals of AI agents on Azure | [Learn module](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/) | Tutorial |
+| Develop AI agents on Azure | [Learning Path](https://learn.microsoft.com/training/paths/develop-ai-agents-on-azure/) | Microsoft Learn |
 | Introducing Azure AI Agent Service | [Blog post](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357) | Azure AI Agent Service announcement |
 | Python library | [Learn more](https://pypi.org/project/azure-ai-projects) | Learn about the Python AI Agents Library |
 
